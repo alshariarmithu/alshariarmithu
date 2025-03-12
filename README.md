@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Web App and Mobile App.
 - 💞️ I’m looking to collaborate on Web App and Mobile App.
-- 📫 How to reach me on Linked In and facebook.
+- 📫 How to reach me on LinkedIn and Facebook.
 - 😄 Pronouns: He
 - ⚡ Fun fact: Nothing.
 
