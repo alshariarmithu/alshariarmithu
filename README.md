@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web App and Mobile App.
 - 💞️ I’m looking to collaborate on Web App and Mobile App.
 - 📫 How to reach me on LinkedIn and Facebook.
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing.
 
 <!---
