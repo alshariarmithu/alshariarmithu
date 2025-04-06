@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @alshariarmithu
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Web App and Mobile App.
-- 💞️ I’m looking to collaborate on Web App and Mobile App.
-- 📫 How to reach me on LinkedIn and Facebook.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Nothing.
+### Hi there, I'm AlShariar Hossain Mithu 👋
+
+I'm passionate about **Machine Learning**, and currently diving into the world of **Web and Mobile App Development**.  
+I love learning new technologies and building things that solve real-world problems.
+
+---
+
+🔭 **Currently Learning**:  
+Web App & Mobile App Development
+
+🤝 **Open to Collaborate On**:  
+Web and Mobile App Projects
+
+📫 **Connect With Me**:  
+[LinkedIn](https://www.linkedin.com/alshariar.hossain) | [Facebook](https://www.facebook.com/alshariar.hossain.nithu)
+
+😄 **Pronouns**: He/Him  
+⚡ **Fun Fact**: I'm still looking for one 😅
+
+---
 
 <!---
 alshariarmithu/alshariarmithu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
