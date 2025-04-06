@@ -12,7 +12,7 @@ Web App & Mobile App Development
 Web and Mobile App Projects
 
 📫 **Connect With Me**:  
-[LinkedIn](https://www.linkedin.com/alshariar.hossain) | [Facebook](https://www.facebook.com/alshariar.hossain.nithu)
+[LinkedIn]((https://www.linkedin.com/in/alshariar-hossain/)) | [Facebook](https://www.facebook.com/alshariar.hossain.mithu)
 
 😄 **Pronouns**: He/Him  
 ⚡ **Fun Fact**: I'm still looking for one 😅
