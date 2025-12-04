@@ -1,4 +1,4 @@
-### Hi there, I'm Al Shariar Hossain Mithu 👋
+### Hi there, I'm Al Shariar Hossain👋
 
 I'm passionate about **Machine Learning**, and currently diving into the world of **Web and Mobile App Development**.  
 I love learning new technologies and building things that solve real-world problems.
