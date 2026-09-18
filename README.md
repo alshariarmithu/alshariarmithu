@@ -87,5 +87,3 @@ I build data-driven solutions and am expanding into web and mobile development t
 I'm always open to discussing new projects, collaboration opportunities, or ideas in ML and app development. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alshariar-hossain/).
 
 ⚡ **Fun fact:** I'm still searching for one — suggestions welcome 😄
-
-<p align="center"><i>"Learning never stops — building never should either."</i></p>
